@@ -2,3 +2,7 @@
 
 ## Overview
 Symmetric slab generator for surface calculations with VASP.
+
+## Installation
+
+Install directly from the repository.
